@@ -6,6 +6,7 @@
 }
 body {
   background-color: #f6f8f9;
+  font-weight: 600;
 }
 header {
   background: white;
@@ -21,7 +22,7 @@ h1 {
   padding: 30px 50px;
 }
 main {
-  background-color: blanchedalmond;
+  background-color: white;
   width: 80%;
   height: 500px;
   margin: 5% auto;
@@ -29,9 +30,27 @@ main {
 }
 section {
   padding-left: 50px;
+  color: white;
 }
-div {
+.first-button,
+.second-button {
   display: inline-block;
-  margin: 25px 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 5px;
   border-left: 25px;
+}
+#one {
+  color: white;
+  background-color: #47adf1;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+#two {
+  color: #a3a7aa;
+  background-color: white;
+  border: 1px solid #a3a7aa;
+  border-radius: 5px;
+  padding: 10px;
 }

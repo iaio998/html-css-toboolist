@@ -24,7 +24,6 @@ h1 {
 main {
   background-color: white;
   width: 80%;
-  height: 500px;
   margin: 5% auto;
   border-radius: 10px;
 }
@@ -53,4 +52,18 @@ section {
   border: 1px solid #a3a7aa;
   border-radius: 5px;
   padding: 10px;
+}
+ul {
+  padding: 50px;
+}
+h2,
+li {
+  margin: 15px;
+}
+li {
+  display: inline-block;
+}
+h2 {
+  font-size: xx-large;
+  vertical-align: middle;
 }

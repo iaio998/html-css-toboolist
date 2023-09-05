@@ -1,6 +1,37 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   list-style: none;
-} */
+}
+body {
+  background-color: #f6f8f9;
+}
+header {
+  background: white;
+}
+img {
+  vertical-align: middle;
+}
+h1 {
+  display: inline-block;
+  font-size: 50px;
+}
+#logo {
+  padding: 30px 50px;
+}
+main {
+  background-color: blanchedalmond;
+  width: 80%;
+  height: 500px;
+  margin: 5% auto;
+  border-radius: 10px;
+}
+section {
+  padding-left: 50px;
+}
+div {
+  display: inline-block;
+  margin: 25px 25px;
+  border-left: 25px;
+}

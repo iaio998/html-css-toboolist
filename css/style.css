@@ -25,6 +25,7 @@ h1 {
 }
 main {
   background-color: white;
+  color: rgba(0, 0, 0, 0.678);
   width: 80%;
   margin: 5% auto;
   border-radius: 10px;
@@ -60,7 +61,7 @@ ul {
 }
 h2,
 li {
-  margin: 15px;
+  margin: 5px;
 }
 li {
   display: inline-block;
@@ -71,11 +72,20 @@ h2 {
   vertical-align: middle;
 }
 .before {
+  margin-right: 5px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
   border-radius: 50%;
   border: 1px solid green;
   color: green;
 }
 .before.x {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
   border-radius: 50%;
   border: 1px solid red;
   color: red;
@@ -83,7 +93,7 @@ h2 {
 #editorial {
   display: inline-block;
   padding: 0.5%;
-  border-radius: 40%;
+  border-radius: 10px;
   border: 1px solid;
   color: white;
   background-color: #45abea;
@@ -93,7 +103,7 @@ h2 {
 #q1goals {
   display: inline-block;
   padding: 0.5%;
-  border-radius: 40%;
+  border-radius: 10px;
   border: 1px solid;
   color: white;
   background-color: #9c72e4;
@@ -103,7 +113,7 @@ h2 {
 #recruiting {
   display: inline-block;
   padding: 0.5%;
-  border-radius: 40%;
+  border-radius: 10px;
   border: 1px solid;
   color: white;
   background-color: #64c0a9;
@@ -113,7 +123,7 @@ h2 {
 #mobile {
   display: inline-block;
   padding: 0.5%;
-  border-radius: 40%;
+  border-radius: 10px;
   border: 1px solid;
   color: white;
   background-color: #f29e33;
@@ -123,7 +133,7 @@ h2 {
 #website {
   display: inline-block;
   padding: 0.5%;
-  border-radius: 40%;
+  border-radius: 10px;
   border: 1px solid;
   color: white;
   background-color: #d762a0;
@@ -133,7 +143,7 @@ h2 {
 #sales {
   display: inline-block;
   padding: 0.5%;
-  border-radius: 40%;
+  border-radius: 10px;
   border: 1px solid;
   color: white;
   background-color: #b0c926;

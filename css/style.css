@@ -17,7 +17,7 @@ img {
 }
 h1 {
   display: inline-block;
-  font-size: 50px;
+  font-size: 70px;
   vertical-align: middle;
 }
 #logo {
@@ -26,12 +26,13 @@ h1 {
 main {
   background-color: white;
   color: rgba(0, 0, 0, 0.678);
-  width: 80%;
+  width: 55%;
   margin: 5% auto;
   border-radius: 10px;
 }
 section {
   padding-left: 50px;
+  margin-left: 100px;
   color: white;
 }
 .first-button,
@@ -58,6 +59,7 @@ section {
 }
 ul {
   padding: 50px;
+  margin-left: 100px;
 }
 h2,
 li {
